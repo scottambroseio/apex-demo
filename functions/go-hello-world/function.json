@@ -1,0 +1,5 @@
+{
+    "runtime": "golang",
+    "memory": 128,
+    "timeout": 2
+}
