@@ -1,5 +1,5 @@
 {
-  "name": "apex-demo",
+  "name": "apex-demo-prod",
   "description": "apex demo project",
   "memory": 128,
   "timeout": 5,
